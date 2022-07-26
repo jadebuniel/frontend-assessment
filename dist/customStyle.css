@@ -1,0 +1,9 @@
+#hero {
+  background-image: url('../assets/mobile-banner.png');
+}
+
+@media (min-width: 768px) {
+  #hero {
+    background-image: url('../assets/desktop-banner.png');
+  }
+}
